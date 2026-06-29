@@ -23,9 +23,9 @@ Business Analytics professional with experience across predictive modeling, expe
 
 ## Core Tools
 
-**Business Acumen: Marketing and Supply Chain Domains, Eager to learn new domains.
+**Business Acumen:** Marketing and Supply Chain Domains, Eager to learn new domains
 
-**Programming & Analytics:** Python(Numpy,Pandas) , SQL(Joins, CTE, Windows), Excel(Lookups, formulas, Scenario Modelling, Pivot Tables)
+**Programming & Analytics:**Python(Numpy,Pandas) , SQL(Joins, CTE, Windows), Excel(Lookups, formulas, Scenario Modelling, Pivot Tables)
 
 **BI & Visualization:** Power BI, Tableau
 
