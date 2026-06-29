@@ -129,5 +129,5 @@ Business Analytics professional with experience across predictive modeling, expe
 ## Contact
 
 **Email:** [vkandal6@asu.edu](mailto:vkandal6@asu.edu)
-**Personal Email: ramanujamkandalam@gmail.com
+**Personal Email:** ramanujamkandalam@gmail.com
 
