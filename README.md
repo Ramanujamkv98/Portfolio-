@@ -9,8 +9,11 @@ Business Analytics professional with experience across predictive modeling, expe
 ## Professional Snapshot
 
 * MS Business Analytics, Arizona State University
+  
 * 3+ years of analytics, BI, experimentation, and business problem-solving experience
+  
 * Experience across customer, marketing, CRM, web, and operational datasets
+  
 * Strong focus on insight generation, stakeholder communication, and decision support
 
 ---
