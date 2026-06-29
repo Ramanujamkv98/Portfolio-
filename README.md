@@ -16,6 +16,9 @@ Business Analytics professional with experience across predictive modeling, expe
   
 * Strong focus on insight generation, stakeholder communication, and decision support
 
+* - Work Authorization: F-1 OPT valid until Jan 2027; eligible for 24-month STEM OPT extension  
+
+
 ---
 
 ## Core Tools
