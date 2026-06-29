@@ -24,10 +24,15 @@ Business Analytics professional with experience across predictive modeling, expe
 ## Core Tools
 
 **Business Acumen: Marketing and Supply Chain Domains, Eager to learn new domains.
+
 **Programming & Analytics:** Python(Numpy,Pandas) , SQL(Joins, CTE, Windows), Excel(Lookups, formulas, Scenario Modelling, Pivot Tables)
+
 **BI & Visualization:** Power BI, Tableau
+
 **Cloud & Data Platforms:** BigQuery, AWS S3, Athena, SageMaker
+
 **Machine Learning Models:** scikit-learn, XGBoost, Logistic and Linear Regression, Random Forest Models
+
 **Methods:** Predictive Modeling, A/B Testing,Customer Funnel Analysis, Cohort Analysis, Customer Segmentation, Churn Analysis, Marketing Mix Modeling, KPI Reporting
 
 ---
