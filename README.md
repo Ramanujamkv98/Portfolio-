@@ -103,10 +103,23 @@ Business Analytics professional with experience across predictive modeling, expe
 * Normalized data across Premier and Workday sources
 * Identified ~$1.2M in excess inventory and delivered replenishment recommendations
 
+### GenTech Lean Six Sigma Case Study
+
+**Overview:** Analysed a case study using Lean Six Sigma methods to improve proposal cycle efficiency using structured process analysis and root cause analysis.
+**Tools:** Excel, Lean Six Sigma,Powerpoint
+
+**Highlights:**
+
+* Analyzed 250K+ proposal records to identify bottlenecks and cycle-time drivers
+* Applied DMAIC framework to structure problem definition, root-cause analysis, and improvement recommendations
+* Built process performance views to monitor proposal flow, delays, and operational inefficiencies
+* Recommended workflow improvements with a projected 15% reduction in proposal cycle time
+
+
 ---
 
 ## Contact
 
 **Email:** [vkandal6@asu.edu](mailto:vkandal6@asu.edu)
-**LinkedIn:** Add LinkedIn URL
-**GitHub:** Add GitHub URL
+**Personal Email: ramanujamkandalam@gmail.com
+
